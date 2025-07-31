@@ -1,6 +1,6 @@
 # Stud game  梭哈游戏源码  客户端cocos+erlong服务器
   
-梭哈游戏，炸金花游戏，代码稳定，产品品质优良。tg：@alibabama401或邮箱：ttpoker40@gmail.com
+梭哈游戏，炸金花游戏，代码稳定，产品品质优良。tg：@alibabama401
 
 ![梭哈牌局UI-01](https://github.com/user-attachments/assets/47e43a6b-9657-4009-b0d7-9cdb6f3796bb)
 ![梭哈牌局UI-18](https://github.com/user-attachments/assets/1f1d835f-2b6d-4f6c-9ad8-f73e645206d5)

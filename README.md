@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🃏 梭哈/炸金花游戏完整源码 | 梭哈/炸金花遊戲完整原始碼 | Showhand & ZhaJinHua Game Source Code
+# 🃏 梭哈/炸金花游戏完整源码 | 棋牌源码|梭哈/炸金花遊戲完整原始碼 | Showhand & ZhaJinHua Game Source Code
 
 **Cocos客户端 + C++/Erlang服务端 | 代码稳定 | 可上线运营**
 
